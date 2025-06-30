@@ -9,8 +9,8 @@ For the first part, I will be learning all the basics. For the purpose, I will b
 - Generating my first line code using LLM ✅
 
 ** Creating a basic chatbot with conversation history **
-- Build a basic chatbot
-- Learn and implement LangChain to store conversation history
+- Build a basic chatbot ✅
+- Learn and implement LangChain to store conversation history ✅
 - Learn and use streamlit for interface
 
 ** Embeddings **
